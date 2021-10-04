@@ -5,9 +5,7 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 
 <h3>Screens </h3>
 
-<img src="https://ibb.co/P4c1G0g" width="350" title="Screen 1">
-<img src="https://ibb.co/BKpmrZ7" width="350" title="Screen 02">
-<img src="https://ibb.co/sQLSz68" width="350" title="Screen 03">
+<a href="https://ibb.co/P4c1G0g"><img src="https://i.ibb.co/P4c1G0g/7-BCF1-B8-C-3-EF7-496-C-9367-6842-C4274-DAB.jpg" alt="7-BCF1-B8-C-3-EF7-496-C-9367-6842-C4274-DAB" border="0"></a> <a href="https://ibb.co/BKpmrZ7"><img src="https://i.ibb.co/BKpmrZ7/27-CCA356-01-B4-4-E55-9156-E833269374-FB.jpg" alt="27-CCA356-01-B4-4-E55-9156-E833269374-FB" border="0"></a> <a href="https://ibb.co/sQLSz68"><img src="https://i.ibb.co/sQLSz68/706-A803-C-44-B3-4-E84-B502-1-A0-F24-A00353.jpg" alt="706-A803-C-44-B3-4-E84-B502-1-A0-F24-A00353" border="0"></a>
 
 <h3> How To configure it </h3>
 1 - Create an Account on <a href="https://chatengine.io/">Chatengine</a><br>
