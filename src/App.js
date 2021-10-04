@@ -5,8 +5,10 @@ import ChatFeed from "./components/ChatFeed";
 import MessageForm from "./components/MessageForm";
 import MyMessage from "./components/MyMessage";
 import TheirMessage from "./components/TheirMessage";
+import LoginForm from "./components/LoginForm";
 
 const App = () => {
+  if (!localStorage.getItem("username")) return <LoginForm />;
   return (
     <ChatEngine
       height="100vh"
