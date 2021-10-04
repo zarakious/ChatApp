@@ -12,7 +12,7 @@ const LoginForm = () => {
     e.preventDefault();
 
     const authObject = {
-      "Project-ID": projectID,
+      "Project-ID": "e73c8186-ce41-4b0f-84dc-94e463c60cb3",
       "User-Name": username,
       "User-Secret": password,
     };
@@ -60,6 +60,9 @@ const LoginForm = () => {
           </div>
         </form>
         <h1>{error}</h1>
+        <div className="copyright">
+          This is a simple Clone with no copyright
+        </div>
       </div>
     </div>
   );
