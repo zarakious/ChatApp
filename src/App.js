@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
+import "./App.css";
+
+// using callback
 
 const App = () => {
-  return <div>Hello this is the tchat App</div>;
+  return <div className="message"> Hello my dad</div>;
 };
 
 export default App;
